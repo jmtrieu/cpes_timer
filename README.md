@@ -7,3 +7,7 @@ Project Contributors:
  - Nick Bell
  - Mugen Blue
  - Chris Specht
+
+Required Materials to run:
+- Arduino
+- Arduino IDE
